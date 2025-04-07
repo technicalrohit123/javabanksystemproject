@@ -67,9 +67,10 @@ public class VeliDationUser {
 		{
 			return true;
 		}
-		else
+		else if
 		{
 			return false;
 		}
+   
 	}
 }
